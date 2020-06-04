@@ -1,0 +1,9 @@
+Package: com.league2eb.crackppics
+Name: CrackPPics
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: League2EB
+Author: League2EB
+Section: Tweaks
